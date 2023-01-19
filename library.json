@@ -1,0 +1,24 @@
+{
+  "name": "RegulTerra",
+  "keywords": "terrarium",
+  "description": "for regulate Temp, Humi, water level, light.",
+  "homepage": "https://github.com/weedmanu/RegulTerra/library.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weedmanu/RegulTerra.git"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Emmanuel Biglia",
+    "url": "TutoElectroWeb.free.fr"
+  },
+  "exclude": [
+    ".github",
+    "extras"
+  ],
+  "frameworks": "*",
+  "platforms": "*",
+  "build": {
+    "libArchive": false
+  }
+}

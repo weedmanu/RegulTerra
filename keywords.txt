@@ -1,0 +1,24 @@
+###########################################
+# Syntax Coloring Map For Led-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+RegulTerra	KEYWORD1
+Eclairage	KEYWORD1
+RegulTemp	KEYWORD1
+RegulHumi	KEYWORD1
+Niveau	KEYWORD1
+Alarme	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+gestion	KEYWORD2
+verif	KEYWORD2
+Alerte_Temp	KEYWORD2
+Alerte_Sonore	KEYWORD2
+
